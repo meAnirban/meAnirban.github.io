@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Python Learning"
 date: 2017-05-17
 header:
