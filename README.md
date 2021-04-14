@@ -1,2 +1,2 @@
-Personal website & blog hosted at [pritesh-shrivastava.github.io](https://meAnirban.github.io/)
+Personal website & blog hosted at [meAnirban.github.io](https://meAnirban.github.io/)
 
