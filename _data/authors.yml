@@ -1,16 +1,16 @@
 # Authors
 
 Pritesh Shrivastava:
-  name        : "Pritesh Shrivastava"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  name        : "Anirban Bhowmick"
+  bio         : "Data Scientist"
+  avatar      : "/assets/images/avatar.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pritesh2312@gmail.com"
+      url: "mailto:anirban.bhowmick.1994@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pritesh-shrivastava/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pritesh_shri"
+      url: "https://www.linkedin.com/in/anirban-bhowmick-b333bab4/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/pritesh_shri"
