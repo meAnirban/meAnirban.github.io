@@ -9,10 +9,10 @@ title: "About"
 
 
 Hi there, I'm Anirban!
-I'm an experienced data scientist (~3 yrs) passionate about using machine learning
+I'm an experienced data scientist and engineer (~3.5 yrs) passionate about using machine learning
 and deep learning for real-world delivery and impact.
 
-need to add more
+Currently in Transunion CIBIL as a senior data scientist, working with credit data. 
 
 This website is powered by <a href="http://jekyllrb.com">Jekyll</a> & Github Pages, 
 which were surprisingly pretty simple to use. The theme is  
